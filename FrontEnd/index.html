@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script type="module" defer src="index.js"></script>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="icon" href="./flower.png" type="image/icon type">
+    <title>Gardener's Little Helper</title>
+</head>
+
+
+<body>
+    <div class="input-box" id="box">
+        <header>
+            <h1>Gardener's Little Helper</h1>
+        </header>
+        <input id="zipcode" type="text" placeholder="enter your zipcode" />
+        <button id="searchButton">Find</button>
+        <p id="ask">Why is this important?</p>
+    </div>
+    
+    <div class="answer"> 
+        <button id="x-button">x</button>
+        <p id="answer-text">The 2012 USDA Plant Hardiness Zone Map is the standard by which gardeners and growers can determine which plants are most likely to thrive at a location. The map is based on the average annual minimum winter temperature, divided into 10-degree F zones and further divided into 5-degree F half-zones. </p> 
+        <img src="https://pdi.scinet.usda.gov/phzm/vm/All_states_halfzones_title_legend_logos_150dpi.jpg" id ="map">
+
+    </div>
+
+    <div class="zone-info" id="box">
+        <p>⇢ hardiness zone: </p>
+        <p class="clear" id="hardinessZone"></p>
+        <p>⇢ avg. low winter temp: </p>
+        <p class="clear" id="tempRange"></p>
+        <p>⇢ coordinates (lat, lon): </p>
+        <p class="clear" id="coordinates"></p>
+    </div>
+
+    <container class="plant-info-container" id="box">
+        <div class="column">
+            <button class ="plantCategory" id="vegsAndHerbs">Vegetables and Herbs</button>
+            <p class="plantList clear" id="vlist"></p>
+        </div>
+        <div class="column">
+            <button class="plantCategory" id="ornamentals">Ornamentals</button>
+            <p class="plantList clear" id="olist"></p>
+        </div>
+        <div class="column">
+            <button class="plantCategory" id="treesAndShrubs">Trees and Shrubs</button>
+            <p class="plantList clear" id="tlist"></p>
+        </div>
+    </container>
+
+    <div class = "shop" id="box">
+        <p id="shopZone">shop by zone</p>        
+    </div>
+</body>
+</html>

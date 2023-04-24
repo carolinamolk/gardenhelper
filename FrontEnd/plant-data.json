@@ -1,0 +1,121 @@
+[
+{   "Zone": 0 },
+{   "Zone": 1,
+    "vegs_and_herbs": 
+        ["Artichokes", "snap beans", "beets", "broccoli", "brussels sprouts", "cabbage", "cauliflower", "celery", "chives", "cucumbers", "dill", "garlic", "kale", "kohlrabi", "leeks", "lettuce", "parsley", "radish", "winter squash", "spinach", "tomatoes", "turnips"],
+    "ornamentals":
+        ["Yarrow", "Arrowhead", "Delphinium", "Goldenrod", "Sunflower", "Lily of the Valley", "Oxeye Daisy"],
+    "trees_and_shrubs":
+        ["Chokecherry", "End apple", "Fort Mac Mac apple", "Haskap", "September Ruby apple"]
+},
+
+{   "Zone": 2,
+    "vegs_and_herbs": 
+        ["Carrots", "Mustard greens", "Onions", "Parsnips", "Swiss chard", "Hyssop", "Juniper", "Turkestan Rose"],
+    "ornamentals":
+        ["Bleeding Heart", "Monkshood", "Penstemon", "Poppy", "Primrose", "Sea Holly", "Violet"],
+    "trees_and_shrubs":
+        ["Brookgold plum", "Fall Red apple", "Fofonoff plum", "Garrington Chokecherry", "Korean pine", "Minnesota 1734 apple", "Norkent apple", "Parkland apple", "Pembina plum", "Dwarf birch"]
+},
+
+{   "Zone": 3,
+    "vegs_and_herbs": 
+        ["Asparagus", "Celery", "Cucumbers", "Summer squash", "Winter squash", "Caraway", "Catnip", "English chamomile", "French sorrel", "Garlic", "Horseradish", "Parsley", "Peppermint"],
+    "ornamentals":
+        ["Alpine Rockcress", "Aster", "Blanket Flower", "Liatris varieties", "Salvia", "Snow-in-Summer", "Spurge", "Virginia Bluebells", "Wallflower"],
+    "trees_and_shrubs":
+        ["Cupid cherry", "Dolgo crabapple", "Early Gold pear", "Evans cherry", "Golden Spice pear", "Goodland apple", "Sweet Sixteen apple", "Toka plum", "Waneta plum", "Westcot apricot"]
+},
+
+{   "Zone": 4,
+    "vegs_and_herbs": 
+        ["Eggplant", "Melons", "Okra", "Pumpkins", "Angelica", "Bee balm", "Garden sage", "Lemon balm", "Mountain mint", "Thyme", "Winter savory"],
+    "ornamentals":
+        ["Coneflower", "Daylily", "Iris", "Phlox", "Plantain lily (Hostas)"],
+    "trees_and_shrubs":
+        ["Alderman plum", "Alexander apple", "Buartnut", "Butternut", "Ewing blue plum", "Nova pear", "Railroad apple", "Summercrisp pear", "Trent apple", "American cranberry bush"]
+},
+
+{   "Zone": 5,
+    "vegs_and_herbs": 
+        ["Kale", "Lettuce", "Radishes", "Spinach", "Winter greens"],
+    "ornamentals":
+        ["Baptisia", "Black-eyed Susan", "Campanula", "Cinquefoil", "Russian Sage"],
+    "trees_and_shrubs":
+        ["Harrow Delight pear", "Honeycrisp apple", "Native pawpaw trees", "Pink Lady apple", "Snow Beauty peach", "Superior plum", "Warren pear"]
+},
+
+{   "Zone": 6,
+    "vegs_and_herbs": 
+        ["Bush beans", "Butter lettuce", "Indeterminate tomatoes", "Longer season melons", "Winter squash", "Borage", "Coriander", "Dill", "False chamomile", "Oregano"],
+    "ornamentals":
+        ["False sunflower", "Floribunda rose", "Flowering fern", "Japanese Bottlebrush", "Lady's Mantle", "Sedum"],
+    "trees_and_shrubs":
+        ["Jefferson", "Late Crawford", "Loring", "Madison", "Nectar", "Red Globe", "Cherry laurel"]
+},
+
+{   "Zone": 7,
+    "vegs_and_herbs": 
+        ["Arugula", "Hot peppers", "Long growing season vegetables", "Sweet peppers", "Turnips", "Feverfew", "Marjoram", "Rue", "Sage", "Tarragon"],
+    "ornamentals":
+        ["Butterfly weed", "Candytuft", "Chrysanthemum", "Clematis", "Forget-me-not", "Four o'clock", "Painted daisy", "Peony"],
+    "trees_and_shrubs":
+        ["Bing cherry", "Blue Java banana", "Contender peach", "Cortland apple", "Fuji apple", "Fuyu persimmon", "Granny Smith apple", "Moorpark apricot", "Ozark plum", "Parker pear", "Rainier Sweet cherry", "Red Gold nectarine", "Scout apricot", "Stella cherry", "Turkey fig", "Wide variety of mulberries", "elderberries", "pawpaw trees"]
+},
+
+{   "Zone": 8,
+    "vegs_and_herbs": 
+        ["Bolt-resistant lettuce varieties", "Cantaloupe", "Field peas", "Hot peppers", "Okra", "Tomatoes", "Watermelon", "Bay laurel", "Marjoram", "Mexican oregano", "Rosemary", "Sage"],
+    "ornamentals":
+        ["Asiatic lily", "Hardy geranium", "Lantana", "Mexican petunia", "Phlox"],
+    "trees_and_shrubs":
+        ["Abacá banana", "Alma fig", "Anna apple", "Bronze banana", "Bryan apricot", "Clementine tangerine", "Darjeeling banana", "Gala apple", "Jujube varieties", "Kumquat and Limequat varieties", "Marsh grapefruit", "Meyer lemon", "Montmorency cherry", "Multiple varieties of peaches and plums", "Ruby grapefruit", "Washington orange"]
+},
+
+{   "Zone": 9,
+    "vegs_and_herbs": 
+        ["Broccoli", "Brussels sprouts", "Cabbage", "Cauliflower", "Greens", "Spinach", "Basil", "Bay laurel", "Chives", "Coriander", "Lemon thyme", "Marjoram", "Mint"],
+    "ornamentals":
+        ["Black-eyed Susan", "Canna", "Dahlia", "Hydrangea", "Rhododendrons", "Wisteria", "Zinnia"],
+    "trees_and_shrubs":
+        ["Avocado", "Calamondin", "Giant pummelo", "Hardy kiwi", "Mandarin orange", "Olives", "Passionfruit", "Starfruit", "Trifoliate orange"]
+},
+
+{   "Zone": 10,
+    "vegs_and_herbs": 
+        ["Bitter melon", "Jicama", "Peanuts", "Malabar spinach", "Tomatillos"],
+    "ornamentals":
+        ["Aeoniums", "Agave", "African lily", "Delta maidenhair fern", "Floss flower", "Geraniums", "Hummingbird mint", "Ornamental onion", "Peruvian lily", "Various aloes"],
+    "trees_and_shrubs":
+        ["Strawberry tree", "Mexican orange", "Zealand daisy bush", "Royal palm"]
+},
+
+{   "Zone": 11,
+    "vegs_and_herbs": 
+        ["Beets", "Cabbage", "Carrots", "Kale", "Radishes", "Sweet Peas", "Swiss chard", "Basil", "Chives", "Lemongrass", "Mexican oregano", "Mint", "Thyme"],
+    "ornamentals":
+        ["Anemone coronaria", "Begonias", "Bougainvillea", "Drumstick allium", "Kangaroo paw", "Ponytail palm"],
+    "trees_and_shrubs":
+        ["Tasmanian blue gum", "rubber plant", "Jaboticaba", "Macadamia", "Mango", "Moringa tree", "Natal plum", "Seagrape"]
+},
+
+{   "Zone": 12,
+    "vegs_and_herbs": 
+        ["Bush beans", "Eggplant", "Hot peppers", "Summer squashes", "Tomatoes", "Borage", "Cilantro", "Culantro", "Rosemary", "Sage", "Savory"],
+    "ornamentals":
+        ["Aloe plant", "Agave plant", "Bird of Paradise", "Hibiscus", "Begonia", "Anthurium", "Plumeria", "Kangaroo Paw", "Moth orchid", "Scarlet sage", "Amaryllis"],
+    "trees_and_shrubs":
+        ["African apricot", "African breadfruit", "Ackee", "Alupag", "Amazon tree-grape", "Bacuri cascudo", "Bignay", "Black pepper", "Imbe", "Java Olive", "Tropical almond"]
+},
+
+{   "Zone": 13,
+    "vegs_and_herbs": 
+        ["Chili pepper", "Eggplant", "Tomatoes", "Bush beans", "Cilantro", "Borage", "Licorice", "Basil", "Red mint", "Black Nightshade"],
+    "ornamentals":
+        [],
+    "trees_and_shrubs":
+        ["Ackee", "Alupag", "Avocado", "Bignay", "Coconut Palm", "Imbe", "Java Olive", "Lemon", "Mango", "Miracle fruit", "African breadfruit", "Papaya", "Pineapple guava", "Orange"]
+}
+
+]
+

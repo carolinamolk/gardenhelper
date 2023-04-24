@@ -1,0 +1,21 @@
+//perenual key: sk-oF1c643debe301c1f554
+// https://perenual.com/user/developer
+
+
+//class to organize plant data
+
+class Zone {
+    constructor(zone, vegAndHerbs = [], ornamentals = [], shrubsAndTrees = []){
+        this.zone = zone
+        this.vegAndHerbs = vegAndHerbs
+        this.ornamentals = ornamentals
+        this.shrubsAndTrees = shrubsAndTrees
+    }
+}
+const zone1 = new Zone(1, 
+    ["Artichokes", " snap beans", " beets", " broccoli", " brussels sprouts", " cabbage", " cauliflower", " celery", " chives", " cucumbers", " dill", " garlic", " kale", " kohlrabi", " leeks", " lettuce", " parsley", " radish", " winter squash", " spinach", " tomatoes", " turnips"], 
+    ["Yarrow", " Arrowhead", " Delphinium", " Goldenrod", " Sunflower", " Lily of the Valley", " Oxeye Daisy"],
+    ["Chokecherry", " End apple", " Fort Mac Mac apple", " Haskap", " September Ruby apple"])
+
+console.log(zone1)
+
